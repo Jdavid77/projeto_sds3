@@ -7,7 +7,7 @@ const RoutesConfig = () => {
     return (
         <BrowserRouter>
         <Routes>
-            <Route path="/home" element={ <Home />} />
+            <Route path="/" element={ <Home />} />
             <Route path="/dashboard" element={ <Dashboard /> } />
         </Routes>
         </BrowserRouter>
