@@ -21,12 +21,11 @@ const DonutChart = () => {
                 const mySeries = data.map(x => x.sum);
 
                 setChartData({ labels: mylabels, series: mySeries });
-                console.log(chartData);
+            
             });
 
     }, []);
     // Forma Errada
-
 
     const options = {
         legend: {
