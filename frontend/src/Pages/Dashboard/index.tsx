@@ -27,7 +27,6 @@ function Dashboard() {
                     <DataTable />
 
                 </div>
-
                 <Footer />
             </>
         </div>
