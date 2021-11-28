@@ -45,7 +45,8 @@ em que objetivo seria fazer uma aplicação full stack que permita listar vário
    
    ![image](https://user-images.githubusercontent.com/49655819/143770645-baeddd4c-9bd7-4ca9-8e92-80a405207796.png)
 
-   
+   <a href="https://dsvendas-joaodavid.netlify.app/dashboard" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" target="_blank"></a>
+   -- > Link para a página
    
    
      
