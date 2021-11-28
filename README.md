@@ -39,7 +39,15 @@ em que objetivo seria fazer uma aplicação full stack que permita listar vário
       <li>React Router DOM e Axios</li>
      </ul>
      
-     
+   
+   
+   ## Front - end
+   
+   ![image](https://user-images.githubusercontent.com/49655819/143770645-baeddd4c-9bd7-4ca9-8e92-80a405207796.png)
+
+   
+   
+   
      
    Tecnologias utilizadas:
    
