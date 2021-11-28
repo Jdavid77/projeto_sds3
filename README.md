@@ -31,9 +31,31 @@ Projeto desenvolvido a Semana Spring React - 01/NOV a 07/NOV - organizado pela
      ![image](https://user-images.githubusercontent.com/49655819/143770395-23e02c14-74de-429d-a987-d0c94324f9cb.png)
 
      
-     - 3 º etapa: 
+   - 3 º etapa: 
      <ul>
       <li>Integrar back end e front end</li>
       <li>React Hooks</li>
       <li>React Router DOM e Axios</li>
      </ul>
+     
+     
+     
+   Tecnologias utilizadas:
+   
+   - Java 11
+   - Spring Boot
+   - STS
+   - Heroku
+   - React/Typescript
+   - Netlify
+   - H2-Database
+   - PostgresSQL
+   - Postman
+   - Yarn
+   - Git
+   - VSCode
+
+
+
+
+
